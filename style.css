@@ -1,3 +1,19 @@
-body {
+h2{
+  color: lightblue;
+  text-shadow: 2px 1px; 
+  text-decoration-line: underline;
+  text-decoration-color: green;
+  text-decoration-style: dotted;
+  font-family: "Lucida Console", "Courier New", monospace;
+}
 
+img:hover {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 400px;
+}
+
+body{
+  background-color: #788521;
 }
