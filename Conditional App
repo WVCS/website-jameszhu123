@@ -1,7 +1,8 @@
-  <nav>
+
+    <nav>
       <li> <a href="index.html"> Home </a></li>
-      <li> <a href="bean.html"> Dataset App </a></li>
-      <li> <a href="joe.html"> Conditional App</a></li>
+      <li> <a href="Dataset App.html"> Dataset App </a></li>
+      <li> <a href="Conditional App.html"> Conditional App</a></li>
     </nav>
 
 <html>
@@ -23,8 +24,8 @@
     </html>
     <nav>
       <li> <a href="index.html"> Home </a></li>
-      <li> <a href="bean.html"> Dataset App </a></li>
-      <li> <a href="joe.html"> Conditional App</a></li>
+      <li> <a href="Dataset App.html"> Dataset App </a></li>
+      <li> <a href="Conditional App.html"> Conditional App</a></li>
     </nav>
 
 <html>
@@ -42,6 +43,11 @@
     
     
   <iframe width="392" height="620" style="border: 0px;" src="https://studio.code.org/projects/applab/I_xda14ZxGKLhzNFNbtpp-ji3UPE9eEESZQLWFgv_xn/embed?nosource"></iframe>
+ 
+
+  </body>
+  
+  </html>
  
 
   </body>
