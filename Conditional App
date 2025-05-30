@@ -1,1 +1,49 @@
+  <nav>
+      <li> <a href="index.html"> Home </a></li>
+      <li> <a href="bean.html"> Dataset App </a></li>
+      <li> <a href="joe.html"> Conditional App</a></li>
+    </nav>
 
+<html>
+  <head> 
+    <link rel="stylesheet" href="style.css">
+
+  </head>
+
+  <br>
+  <br>
+  <br>
+  <body>
+ 
+    
+
+  
+  </body>
+  
+    </html>
+    <nav>
+      <li> <a href="index.html"> Home </a></li>
+      <li> <a href="bean.html"> Dataset App </a></li>
+      <li> <a href="joe.html"> Conditional App</a></li>
+    </nav>
+
+<html>
+  <head> 
+    <link rel="stylesheet" href="style.css">
+
+  </head>
+
+  <br>
+  <br>
+  <br>
+  <body>
+    <center>
+    <h2> James Zhu's Website </h2>
+    
+    
+  <iframe width="392" height="620" style="border: 0px;" src="https://studio.code.org/projects/applab/I_xda14ZxGKLhzNFNbtpp-ji3UPE9eEESZQLWFgv_xn/embed?nosource"></iframe>
+ 
+
+  </body>
+  
+  </html>
